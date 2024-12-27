@@ -2,7 +2,7 @@
 
 ## Proyek Submission Coding Camp DBS Foundation
 *Deskripsi*
-Proyek ini merupakan hasil kerja saya dalam program Coding Camp Machine Learning 2024 oleh DBS Foundation. Proyek ini berfokus pada pengembangan model Predictive Analytics untuk **Prediksi Harga Property**.
+Proyek ini merupakan hasil kerja saya dalam program Coding Camp Machine Learning 2024 oleh DBS Foundation. Proyek ini berfokus pada pengembangan model Predictive Analytics untuk **Prediksi Nilai Property & Harga Sewa**.
 
 Tujuan
 1. Mengembangkan model Machine Learning yang akurat untuk prediksi.
