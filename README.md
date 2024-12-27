@@ -12,7 +12,7 @@ Tujuan
 Teknologi dan Bahasa
 1. Bahasa pemrograman: Python
 2. Library: Pandas, NumPy, Scikit-learn, TensorFlow
-3. Algoritma: Regresi Linear, Random Forest, KKN
+3. Algoritma: Random Forest, K-Nearest Neighbors
 4. Visualisasi: Matplotlib, Seaborn
 
 Struktur Proyek
@@ -27,18 +27,12 @@ Cara Menjalankan
 3. Jalankan notebook Jupyter untuk melihat proses pengembangan model.
 
 Hasil
-1. Model prediksi dengan akurasi [nilai akurasi].
+1. Model prediksi dengan akurasi R² 0.99.
 2. Analisis faktor-faktor yang mempengaruhi hasil prediksi.
 3. Visualisasi data yang mempermudah pemahaman.
 
-Referensi
-1. [Nama sumber referensi 1]
-2. [Nama sumber referensi 2]
-
 Kontak
-- Nama: [Nama Anda]
-- Email: [Email Anda]
-- LinkedIn: [Profil LinkedIn Anda]
+- Nama: Rusdiana
+- Email: mrusdiana07@gmail.com
+- LinkedIn: [Rusdiana](https://www.linkedin.com/in/rusdiana28?trk=contact-info)
 
-Lisensi
-Proyek ini dilisensikan di bawah [nama lisensi, contoh: MIT].
