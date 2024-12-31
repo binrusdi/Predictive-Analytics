@@ -23,8 +23,7 @@ Struktur Proyek
 
 Cara Menjalankan
 1. Clone repository ini ke lokal.
-2. Instalasi library yang diperlukan dengan `pip install -r requirements.txt`.
-3. Jalankan notebook Jupyter untuk melihat proses pengembangan model.
+2. Jalankan notebook Jupyter untuk melihat proses pengembangan model.
 
 Hasil
 1. Model prediksi dengan akurasi R² 0.99.
